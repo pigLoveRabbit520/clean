@@ -5,4 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 aux_source_directory(. DIR_SRCS)
 
-add_executable(ftp ${DIR_SRCS})
+add_executable(clean ${DIR_SRCS})
